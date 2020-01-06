@@ -1,0 +1,69 @@
+G:\ankit project\Library\bin\Debug\LibrarySMS.exe.config
+G:\ankit project\Library\obj\Debug\LibrarySMS.xml
+G:\ankit project\Library\obj\Debug\LibrarySMS.pdb
+G:\ankit project\Library\obj\Debug\LibrarySMS.Form1.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmBookIssuesBranch.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmBookIssues.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmBookRenewal.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmBookReturn.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmBooks.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmBranch.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmChangePassword.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmLogin.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmMain.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmReports.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmReservation.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmMember.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.frmViewRecords.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.Resources.resources
+G:\ankit project\Library\obj\Debug\LibrarySMS.vbproj.GenerateResource.Cache
+F:\lms project\Library\bin\Debug\LibrarySMS.exe.config
+F:\lms project\Library\obj\Debug\LibrarySMS.xml
+F:\lms project\Library\obj\Debug\LibrarySMS.pdb
+F:\lms project\Library\obj\Debug\LibrarySMS.Form1.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmBookIssuesBranch.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmBookIssues.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmBookRenewal.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmBookReturn.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmBooks.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmBranch.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmChangePassword.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmLogin.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmMain.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmReports.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmReservation.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmMember.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.frmViewRecords.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.Resources.resources
+F:\lms project\Library\obj\Debug\LibrarySMS.vbproj.GenerateResource.Cache
+F:\lms project\Library\bin\Debug\LibrarySMS.exe
+F:\lms project\Library\bin\Debug\LibrarySMS.pdb
+F:\lms project\Library\bin\Debug\LibrarySMS.xml
+F:\lms project\Library\obj\Debug\LibrarySMS.exe
+F:\lms project\Library\obj\Debug\LibrarySMS.vbprojResolveAssemblyReference.cache
+F:\lms project\Library\obj\Debug\LibrarySMS.BookIssue.resources
+C:\Users\Mally\Desktop\LibraryFinal\bin\Debug\LibrarySMS.exe.config
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.exe
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.xml
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.pdb
+C:\Users\Mally\Desktop\LibraryFinal\bin\Debug\LibrarySMS.exe
+C:\Users\Mally\Desktop\LibraryFinal\bin\Debug\LibrarySMS.pdb
+C:\Users\Mally\Desktop\LibraryFinal\bin\Debug\LibrarySMS.xml
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.vbprojResolveAssemblyReference.cache
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.BookIssue.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.Form1.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmBookIssuesBranch.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmBookIssues.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmBookRenewal.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmBookReturn.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmBooks.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmBranch.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmChangePassword.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmLogin.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmMain.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmReports.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmReservation.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmMember.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.frmViewRecords.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.Resources.resources
+C:\Users\Mally\Desktop\LibraryFinal\obj\Debug\LibrarySMS.vbproj.GenerateResource.Cache

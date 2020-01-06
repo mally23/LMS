@@ -1,0 +1,17 @@
+F:\lms project\Library\bin\Release\LibrarySMS.exe.config
+F:\lms project\Library\obj\Release\LibrarySMS.Form1.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmBookIssuesBranch.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmBookIssues.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmBookRenewal.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmBookReturn.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmBooks.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmBranch.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmChangePassword.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmLogin.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmMain.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmReports.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmReservation.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmMember.resources
+F:\lms project\Library\obj\Release\LibrarySMS.frmViewRecords.resources
+F:\lms project\Library\obj\Release\LibrarySMS.Resources.resources
+F:\lms project\Library\obj\Release\LibrarySMS.vbproj.GenerateResource.Cache
