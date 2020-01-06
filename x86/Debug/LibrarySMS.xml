@@ -1,0 +1,184 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LibrarySMS
+</name>
+</assembly>
+<members>
+<member name="T:LibrarySMS.LibrarySMSDataSet2.BooksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet2.BooksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet2.BooksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet2TableAdapters.BooksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(LibrarySMS.LibrarySMSDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(LibrarySMS.LibrarySMSDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(LibrarySMS.LibrarySMSDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet2TableAdapters.TableAdapterManager.UpdateAll(LibrarySMS.LibrarySMSDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:LibrarySMS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LibrarySMS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LibrarySMS.My.Resources.Resources.shalini">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LibrarySMS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet.BooksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet.BooksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet.BooksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSetTableAdapters.BooksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LibrarySMS.LibrarySMSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LibrarySMS.LibrarySMSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LibrarySMS.LibrarySMSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSetTableAdapters.TableAdapterManager.UpdateAll(LibrarySMS.LibrarySMSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet1.MembersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet1.MembersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet1.MembersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet1TableAdapters.MembersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(LibrarySMS.LibrarySMSDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(LibrarySMS.LibrarySMSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(LibrarySMS.LibrarySMSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LibrarySMS.LibrarySMSDataSet1TableAdapters.TableAdapterManager.UpdateAll(LibrarySMS.LibrarySMSDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LibrarySMS.LibrarySMSDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
