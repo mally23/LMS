@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LibrarySMS">
+</Property><Property Name="Solution File" Value="G:\ankit project\Library\LibrarySMS.sln">
+</Property><Property Name="User Options File" Value="G:\ankit project\Library\LibrarySMS.suo">
+</Property><Property Name="Date" Value="Thursday, March 14, 2019">
+</Property><Property Name="Time" Value="11:21 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LibrarySMS.sln" Description="File successfully backed up as F:\Backup\LibrarySMS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LibrarySMS.suo" Description="File successfully backed up as F:\Backup\LibrarySMS.suo">
+</Event><Event ErrorLevel="4" Project="LibrarySMS" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="LibrarySMS.vbproj" Description="Project file successfully backed up as F:\Backup\LibrarySMS.vbproj">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="LibrarySMS.vbproj.user" Description="Project user file successfully backed up as F:\Backup\LibrarySMS.vbproj.user">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="Form1.vb" Description="File successfully backed up as F:\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="Form1.Designer.vb" Description="File successfully backed up as F:\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookIssueBranch.Designer.vb" Description="File successfully backed up as F:\Backup\frmBookIssueBranch.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookIssueBranch.vb" Description="File successfully backed up as F:\Backup\frmBookIssueBranch.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookIssues.Designer.vb" Description="File successfully backed up as F:\Backup\frmBookIssues.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookIssues.vb" Description="File successfully backed up as F:\Backup\frmBookIssues.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookRenewal.Designer.vb" Description="File successfully backed up as F:\Backup\frmBookRenewal.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookRenewal.vb" Description="File successfully backed up as F:\Backup\frmBookRenewal.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookReturn.Designer.vb" Description="File successfully backed up as F:\Backup\frmBookReturn.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookReturn.vb" Description="File successfully backed up as F:\Backup\frmBookReturn.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBooks.Designer.vb" Description="File successfully backed up as F:\Backup\frmBooks.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBooks.vb" Description="File successfully backed up as F:\Backup\frmBooks.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBranch.Designer.vb" Description="File successfully backed up as F:\Backup\frmBranch.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBranch.vb" Description="File successfully backed up as F:\Backup\frmBranch.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmChangePassword.Designer.vb" Description="File successfully backed up as F:\Backup\frmChangePassword.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmChangePassword.vb" Description="File successfully backed up as F:\Backup\frmChangePassword.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmLogin.Designer.vb" Description="File successfully backed up as F:\Backup\frmLogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmLogin.vb" Description="File successfully backed up as F:\Backup\frmLogin.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmMain.Designer.vb" Description="File successfully backed up as F:\Backup\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmMain.vb" Description="File successfully backed up as F:\Backup\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmReports.Designer.vb" Description="File successfully backed up as F:\Backup\frmReports.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmReports.vb" Description="File successfully backed up as F:\Backup\frmReports.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmReservation.Designer.vb" Description="File successfully backed up as F:\Backup\frmReservation.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmReservation.vb" Description="File successfully backed up as F:\Backup\frmReservation.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmMember.Designer.vb" Description="File successfully backed up as F:\Backup\frmMember.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmMember.vb" Description="File successfully backed up as F:\Backup\frmMember.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmViewRecords.Designer.vb" Description="File successfully backed up as F:\Backup\frmViewRecords.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmViewRecords.vb" Description="File successfully backed up as F:\Backup\frmViewRecords.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="ModDB.vb" Description="File successfully backed up as F:\Backup\ModDB.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="ModSendSMS.vb" Description="File successfully backed up as F:\Backup\ModSendSMS.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as F:\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="My Project\Application.Designer.vb" Description="File successfully backed up as F:\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as F:\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as F:\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptBooks.vb" Description="File successfully backed up as F:\Backup\rptBooks.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptIssues.vb" Description="File successfully backed up as F:\Backup\rptIssues.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptReservations.vb" Description="File successfully backed up as F:\Backup\rptReservations.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptSMSLog.vb" Description="File successfully backed up as F:\Backup\rptSMSLog.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptStudents.vb" Description="File successfully backed up as F:\Backup\rptStudents.vb">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="My Project\Application.myapp" Description="File successfully backed up as F:\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="My Project\Settings.settings" Description="File successfully backed up as F:\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="app.config" Description="File successfully backed up as F:\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="Form1.resx" Description="File successfully backed up as F:\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookIssueBranch.resx" Description="File successfully backed up as F:\Backup\frmBookIssueBranch.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookIssues.resx" Description="File successfully backed up as F:\Backup\frmBookIssues.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookRenewal.resx" Description="File successfully backed up as F:\Backup\frmBookRenewal.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBookReturn.resx" Description="File successfully backed up as F:\Backup\frmBookReturn.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBooks.resx" Description="File successfully backed up as F:\Backup\frmBooks.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmBranch.resx" Description="File successfully backed up as F:\Backup\frmBranch.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmChangePassword.resx" Description="File successfully backed up as F:\Backup\frmChangePassword.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmLogin.resx" Description="File successfully backed up as F:\Backup\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmMain.resx" Description="File successfully backed up as F:\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmReports.resx" Description="File successfully backed up as F:\Backup\frmReports.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmReservation.resx" Description="File successfully backed up as F:\Backup\frmReservation.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmMember.resx" Description="File successfully backed up as F:\Backup\frmMember.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="frmViewRecords.resx" Description="File successfully backed up as F:\Backup\frmViewRecords.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="My Project\Resources.resx" Description="File successfully backed up as F:\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptBooks.rpt" Description="File successfully backed up as F:\Backup\rptBooks.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptIssues.rpt" Description="File successfully backed up as F:\Backup\rptIssues.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptReservations.rpt" Description="File successfully backed up as F:\Backup\rptReservations.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptSMSLog.rpt" Description="File successfully backed up as F:\Backup\rptSMSLog.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="rptStudents.rpt" Description="File successfully backed up as F:\Backup\rptStudents.rpt">
+</Event><Event ErrorLevel="1" Project="LibrarySMS" Source="LibrarySMS.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="LibrarySMS.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LibrarySMS" Source="LibrarySMS.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LibrarySMS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LibrarySMS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LibrarySMS" Source="LibrarySMS.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
